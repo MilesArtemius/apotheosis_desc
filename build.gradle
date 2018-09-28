@@ -24,4 +24,5 @@ dependencies {
     compile 'com.google.code.gson:gson:1.7.2'
     //compile 'de.javawi.jstun:jstun:0.7.4'
     //compile "org.slf4j:slf4j-simple:1.7.9"
+    //Женя - лошок))
 }
